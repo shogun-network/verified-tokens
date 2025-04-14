@@ -18,7 +18,7 @@ The Shogun Verified Tokens repository serves as a central source of truth for to
 You can directly access the token list by:
 1. Cloning this repository
 2. Importing the JSON file in your project
-3. Using the CDN link: `https://raw.githubusercontent.com/shogun-labs/verified-tokens/main/tokens.json`
+3. Using the CDN link: `https://raw.githubusercontent.com/shogun-network/verified-tokens/main/shogun-verified-tokens-list.json`
 
 ## Contributing
 
