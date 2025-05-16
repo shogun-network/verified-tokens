@@ -40,4 +40,10 @@ const jupiterVerifiedTokens = async () => {
     });
 };
 
-jupiterVerifiedTokens();
+(function main() {
+    try {
+        jupiterVerifiedTokens()
+    } catch (error) {
+        console.error(error);
+    }
+})()
