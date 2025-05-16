@@ -2,7 +2,7 @@ name: Update-Verified-Tokens
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-verified-tokens:
