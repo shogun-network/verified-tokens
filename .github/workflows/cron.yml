@@ -1,0 +1,17 @@
+name: Update-Verified-Tokens
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-verified-tokens:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: oven-sh/setup-bun@v2
+    - name: Checkout
+      uses: actions/checkout@v4
+    - name: Run update script
+      run: |
+        bun update-token-list.ts
+    - uses: stefanzweifel/git-auto-commit-action@v5
