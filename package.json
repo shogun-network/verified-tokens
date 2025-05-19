@@ -1,0 +1,11 @@
+{
+  "name": "verified-tokens",
+  "module": "update-token-list.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
