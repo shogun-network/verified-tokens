@@ -6,6 +6,8 @@ on:
 
 jobs:
   update-verified-tokens:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
     - uses: oven-sh/setup-bun@v2
