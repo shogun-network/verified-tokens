@@ -376,6 +376,14 @@
     "image": "https://cdn.1stdigital.com/icon/fdusd.svg"
   },
   {
+    "symbol": "Valentine",
+    "address": "9GtvcnDUvGsuibktxiMjLQ2yyBq5akUahuBs8yANbonk",
+    "name": "Valentine Grok Companion",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreic5b3no6gqfwz6us4jyllvrvfpvgxihzsq5dcrlyrth7ewu2imvvq"
+  },
+  {
     "symbol": "PSOL",
     "address": "pSo1f9nQXWgXibFtKf7NWYxb5enAM4qfP6UJSiXRQfL",
     "name": "Phantom Staked SOL",
@@ -454,6 +462,14 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://metadata.jito.network/token/jto/image"
+  },
+  {
+    "symbol": "ACT B",
+    "address": "8MxjSs3kEPmfiqKN1S4o3PABp198uYyx4gLF1TvZbonk",
+    "name": "ACT B : The Bonk Prophecy",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeicbtdpbojztuwmfts62atffna47fre7jsohupgwjqd27ynuutth5a"
   },
   {
     "symbol": "sSOL",
@@ -1174,6 +1190,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmNu5nAXtwPY81vSjM16ZE3U81KHtV8U9u58i45y1C2Fo9"
+  },
+  {
+    "symbol": "気",
+    "address": "5aUemPEExdpnRYwrHTsALeQgDFda63dAP5bNnSdgbonk",
+    "name": "Chi",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeifqd7je4v5rrsvor5pgtbo2i6gavivsgqjnskgtwunekwme2ll5za"
   },
   {
     "symbol": "SNAI",
@@ -2182,6 +2206,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmXRB5ujAAVNERmTPcmPT5aZaySVgNeAWVuXQNShWW2d37"
+  },
+  {
+    "symbol": "SLEEPLESS",
+    "address": "4SngaZ3N9ELjCqh6P3MeA3r4Hi2Dx1MDn2H4ijcDbonk",
+    "name": "SLEEPLESS COIN",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreic7yg2k3e2ou3him6ddgkhuogpybr5aqojmyprmdt4o4eefqxsn5y"
   },
   {
     "symbol": "fxn",
@@ -3382,6 +3414,14 @@
     "decimals": 8,
     "chainId": 7565164,
     "image": "https://xstocks-metadata.backed.fi/logos/tokens/DFDVx.png"
+  },
+  {
+    "symbol": "DARWIN",
+    "address": "GUiVKWZvtNnc273wBRLEwMBxCoPffPvhRC2ghPySwAFZ",
+    "name": "Darwin",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://gateway.pinata.cloud/ipfs/QmX2jgnYPVoUwtoY4knu5yX2nyaAEvDrchiGiBmmbLEwqG"
   },
   {
     "symbol": "AVAX",
@@ -7958,45 +7998,5 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://bafkreifiumvigr7mq7udv2ueolhsyscjcyoe5dpxcpepetdrsdh3qac5re.ipfs.nftstorage.link"
-  },
-  {
-    "symbol": "truth",
-    "address": "2GmUPhpe93kcTJZrC7NJ2keeDZRT5dBveUgegb13pump",
-    "name": "TruthChain",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/Qmcv2qUqsDuE2tb7EexZ4DsM5dv4P4rydVWdBEDTp9HCQv"
-  },
-  {
-    "symbol": "miharu",
-    "address": "6tVZVjcppH2BZ9Xj5yFU1Zt34m2rYcyDqqpSeMDZpump",
-    "name": "smiling dolphin",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmaKx8LWyabbxFPij1L87vjvrKey1Y7mfhQvgYPEM6b9G3"
-  },
-  {
-    "symbol": "eonSOL",
-    "address": "eon5tgYNk5FjJUcBUcLno49t2GfpmWZDzJHeYkbh9Zo",
-    "name": "eonSOL",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://shdw-drive.genesysgo.net/Ctn1Td5TTdb6FumGxUCc8ZGiiMHQujKQYPwnV2DjaBtv/eonSOL.png"
-  },
-  {
-    "symbol": "OX",
-    "address": "3E2z4KX7y457xJqK9RQeJhA29oPdoUvAAD3Ea3zQyuG3",
-    "name": "OX",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmYQNKSPGTGHZZArbG2gMJGFWDRYXD5Zd84AHYmfhYZbvT"
-  },
-  {
-    "symbol": "JNF",
-    "address": "Ho6DXgPrzKyniNEhcfrqG7zX76Hq9QVfUKERzJvu8dCe",
-    "name": "Job Not Finished",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmVFuGdZVxvbWLKNWsXq3KNtLK788J43o9KiNbPQDBHPQX"
   }
 ]
