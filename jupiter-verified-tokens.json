@@ -680,6 +680,14 @@
     "image": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/122470db-2978-4620-8242-549349e82100/public"
   },
   {
+    "symbol": "AOL",
+    "address": "2oQNkePakuPbHzrVVkQ875WHeewLHCd2cAwfwiLQbonk",
+    "name": "AOL (America Online)",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreibdjmen6uogqyf6bn2ykr64wkvloluxt3acnk4c5xe7rcbgpgyvt4"
+  },
+  {
     "symbol": "KNET",
     "address": "CfVs3waH2Z9TM397qSkaipTDhA9wWgtt8UchZKfwkYiu",
     "name": "Kingnet AI",
@@ -830,6 +838,14 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://storage.googleapis.com/static-marginfi/lst.png"
+  },
+  {
+    "symbol": "IMAGINE",
+    "address": "EuU9Vh37eKDdUnZkUfMZLGCcBqwFYpr1E6X3ZwUxhvgm",
+    "name": "IMAGINE",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://gateway.pinata.cloud/ipfs/QmUM9xXWb631jFEU2Bjz2aNT7KAsnsQWChdAvmDyZmZaAu"
   },
   {
     "symbol": "USDTet",
@@ -7982,21 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmcVcuvCbBBbHRC6xqWZtqGUTnFe6Z5yu5oCtaUCzaKRBG"
-  },
-  {
-    "symbol": "SHITCOIN",
-    "address": "42PZx7bPF1EMnP9L7vcjihTx7Nryxh81GG9Xs6fdpump",
-    "name": "SHITCOIN",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/Qma6DYW3ZdFc9GcnoPcecQFhhLZ2ahTrXwFMhfSdhy8qKU"
-  },
-  {
-    "symbol": "BENJI",
-    "address": "CPjDhhBpwEsLygNuczKcNwBPgMeni1xLomD48x51MyYU",
-    "name": "Taylor Swift's Cat",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://bafkreifiumvigr7mq7udv2ueolhsyscjcyoe5dpxcpepetdrsdh3qac5re.ipfs.nftstorage.link"
   }
 ]
