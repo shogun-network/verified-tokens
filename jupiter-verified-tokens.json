@@ -608,6 +608,14 @@
     "image": "https://ipfs.io/ipfs/bafkreifbjxsikdmuhk5qi6krg3sqk2fcqvqlcffrc44kg7ecfkmwhz6s5i"
   },
   {
+    "symbol": "joe",
+    "address": "6TUJXvuUrS4rnnm8LmG23AZYsWQavY9SpeAG3Cdjbonk",
+    "name": "joe",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeicfc2uyipl3yvxvrvqelr3xzavnnn5np62kmqtkxk4wnc4rkscuhe"
+  },
+  {
     "symbol": "MAX",
     "address": "oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h",
     "name": "MAX",
@@ -2622,6 +2630,14 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://arweave.net/3fUHo_BbHmQnBYM1BNAj8pECYuAYYNYfVXdZ88yLSfc"
+  },
+  {
+    "symbol": "WORTHLESS",
+    "address": "iUdvUaxyRHh8PYVcmkgBpSJu5evpW6jsSLv8RCpmoon",
+    "name": "Worthless Coin",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://cdn.moonshot.com/Hof17CvC3EFf5ZqCAVWcNz7Y.jpg"
   },
   {
     "symbol": "SEND",
@@ -7982,21 +7998,5 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmeQJTwKv5n44jdMBC1GVtSe1PiMh4Ts3Dm5hs3JTxfkR1"
-  },
-  {
-    "symbol": "STFX",
-    "address": "HrqHpE4NQbSTjVtFSTm9i8omFfytggsS9UkccHWHWntx",
-    "name": "STFX (Wormhole)",
-    "decimals": 8,
-    "chainId": 7565164,
-    "image": null
-  },
-  {
-    "symbol": "HIGHER",
-    "address": "5KCGJJpRMtbydUDTAoc5MoRPnqmJNNDaFwvBDdSG6daC",
-    "name": "MY PRONOUNS ARE HIGH/ER",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmcVcuvCbBBbHRC6xqWZtqGUTnFe6Z5yu5oCtaUCzaKRBG"
   }
 ]
