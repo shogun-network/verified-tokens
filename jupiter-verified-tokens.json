@@ -672,6 +672,14 @@
     "image": "https://blznujiyxatc2qyysynmwqqqoreckcg2aolugfgoflsqqaiztuiq.arweave.net/CvLaJRi4Ji1DGJYay0IQdEglCNoDl0MUzirlCAEZnRE"
   },
   {
+    "symbol": "ORGO",
+    "address": "G85CQEBqwsoe3qkb5oXXpdZFh7uhYXhDRsQAM4aJuBLV",
+    "name": "Orgo",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreifyfmzncw7irabcfiytpd7sul3srrmwxrqf2jdjds3wzo2nr75l6y"
+  },
+  {
     "symbol": "wfragSOL",
     "address": "WFRGSWjaz8tbAxsJitmbfRuFV2mSNwy7BMWcCwaA28U",
     "name": "Wrapped Fragmetric Restaked SOL",
@@ -1496,6 +1504,14 @@
     "image": "https://arweave.net/jzjEXXmS1RARcBAcS_ta8FmeMEZZDpBQv472CDpL-K4"
   },
   {
+    "symbol": "FLIPR",
+    "address": "JCBKQBPvnjr7emdQGCNM8wtE8AZjyvJgh7JMvkfYxypm",
+    "name": "Flipr",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://gateway.lighthouse.storage/ipfs/bafkreieb7rhj7ygiuuwpstczrrjubvt5itye6wm7admrdnza3kzbnuoeci"
+  },
+  {
     "symbol": "PVS",
     "address": "FWAr6oWa6CHg6WUcXu8CqkmsdbhtEqL8t31QTonppump",
     "name": "PVS",
@@ -1806,6 +1822,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://pyth.network/token.svg"
+  },
+  {
+    "symbol": "TAI",
+    "address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD",
+    "name": "TARS AI",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://coffee-important-lizard-419.mypinata.cloud/ipfs/Qmf19J2Teszt5ZgqrzQFuWk64xvQzfZFfEEn8ntzpbz36W"
   },
   {
     "symbol": "KAKA",
@@ -2336,12 +2360,28 @@
     "image": "https://pbs.twimg.com/profile_images/1749802424590798848/8Go1WkbK_400x400.jpg"
   },
   {
+    "symbol": "USEFUL",
+    "address": "HD3JBABeFkdZwUgKwhwJYqjLNrPWXEaDVfH4uMqRpump",
+    "name": "USEFUL COIN",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeiavw5y6drtexyyat2yimabnkk3zt6pohwevzne7tp6jofurfuc3wm"
+  },
+  {
     "symbol": "MIRAI",
     "address": "5evN2exivZXJfLaA1KhHfiJKWfwH8znqyH36w1SFz89Y",
     "name": "Project MIRAI",
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmNyi9rvSW5ei3aG9hdpd83qqRfM6VziuQwBjU1BgLm1mX"
+  },
+  {
+    "symbol": "NUMMUS",
+    "address": "9JK2U7aEkp3tWaFNuaJowWRgNys5DVaKGxWk73VT5ray",
+    "name": "Nummus Aeternitas",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeia53j2phukbytqc4xrw3p3botrcqgkts532dr3diqnqxyzsfv2k3e"
   },
   {
     "symbol": "CHONKY",
@@ -2654,6 +2694,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/Qme1AwRhgU8LVpLHzVGpKrRzUEUwMjMxS4GAbarmrFoiEJ"
+  },
+  {
+    "symbol": "KOKOK",
+    "address": "5HkhVG2bSb5PGjhX5QHm9urUquD7tx5eAau5Fonq78zc",
+    "name": "KoKoK The Roach",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://gateway.irys.xyz/JUBmBimnb4x3UzKx3zfgw5Cwn3FWFnHYqZ0DUCGKw2c"
   },
   {
     "symbol": "ELON",
@@ -3152,6 +3200,14 @@
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmSHQy78zSk1eaG8cFGiLEeoyWAEB2ro3S76WpJZ1FfjKW"
   },
   {
+    "symbol": "PAYAI",
+    "address": "E7NgL19JbN8BhUDgWjkH8MtnbhJoaGaWJqosxZZepump",
+    "name": "PayAI Network",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmSd4swW6fkA3N92cUckYj1ar29mqpAaMzfwhrhgiFSonD"
+  },
+  {
     "symbol": "GEOD",
     "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
     "name": "Geodnet Token",
@@ -3414,6 +3470,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://arweave.net/sQ5_tE6hVlJEDFXqNgN3QEQAYSqMymTaCnXb__iGZBk"
+  },
+  {
+    "symbol": "JAWN",
+    "address": "XS9NkSJoRuZZD42CanfrRxRjQ2Uv1oRt6yeAShq9ray",
+    "name": "Long Jawn Silvers",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeigy7xn722apvsk6tlbrxg7434a3z7bpni3oeetuywn2u6ygukssya"
   },
   {
     "symbol": "FRONK",
@@ -3774,6 +3838,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/bafybeiarof6sisscce2anqccr4ncgnrxob2b23yoeoeuee4lo7iyp2y74e"
+  },
+  {
+    "symbol": "DETECTIVE",
+    "address": "9X45NjtGbGo9zdCFmMyqZyNzC6Wa67KFbfvGc8nubonk",
+    "name": "Just can't prove it",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeihn6v5ecaank5vgkasuz4sfdd5zvcexu35uuvy4qsqh6me6vejf4e"
   },
   {
     "symbol": "Hobbes",
@@ -7926,77 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmPPKnhQv4vbUNJWA1JsGsNN9Nqmd5eZrrfPWxVVfKYsq4"
-  },
-  {
-    "symbol": "INBRED",
-    "address": "EjzzyCSiLqjFDprpZj8e1zjXmcTG5HPGFRSEoWcJWHh9",
-    "name": "INBRED CAT",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://arweave.net/iVf74QkkM6G7JfKjwkl37xbFEq0FCU4o5PLGH3--i2o"
-  },
-  {
-    "symbol": "NXR",
-    "address": "88dnPHaZDxwCm9xiDgB15uPwGdgE2y7ALcqsgRTopump",
-    "name": "Nexus Erebus",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmSNX8AaoJJvR215q1WiWVtbtc6Xoag7X6NM7DsxYVHMCC"
-  },
-  {
-    "symbol": "OXY",
-    "address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
-    "name": "Oxygen Protocol",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M/logo.svg"
-  },
-  {
-    "symbol": "PEMDAS",
-    "address": "6f41LGHuU2HVV67ao9GwJ6kv2jNUz9HL6FJPVYcJpump",
-    "name": "Chad Grammatical Model Launch",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmZ74wRTP2L9aEAswQXBqL1y3DTCBKqpJuEWe4fdZ19fJH"
-  },
-  {
-    "symbol": "SUPA",
-    "address": "zi87E9xtFPRQ2o9qqerFxUDQLZgEkHrhpHDxxZhYi9a",
-    "name": "Supa Pump",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmNPRMYyiF14Pon122fe4tF3U6RPfm49y4foVuisbcRCQg"
-  },
-  {
-    "symbol": "LUCI",
-    "address": "5Ke381D44MEQg3BQarWhAwhj1xbdNvXe2KHkTiZzw7r5",
-    "name": "LUCI",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://cdn.dexscreener.com/cms/images/0Jz2wNdE2ZQ6nU2h"
-  },
-  {
-    "symbol": "BNTY",
-    "address": "6TcoT3vcexjsMuuLvS9DhBUrVVcoqBMHEppQGQLMpump",
-    "name": "Bounty",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmXSV8yLnSU7CTCk6SXy3misGrbohbRg3uxNrT8hTdNmHW"
-  },
-  {
-    "symbol": "DINO",
-    "address": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7",
-    "name": "DINO",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7/logo.png"
-  },
-  {
-    "symbol": "anzSOL",
-    "address": "ANZvHuXQh5DnBMzJ55MUyMtPxkdphgBwiPeYji2B3kxS",
-    "name": "anzSOL",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmeQJTwKv5n44jdMBC1GVtSe1PiMh4Ts3Dm5hs3JTxfkR1"
   }
 ]
