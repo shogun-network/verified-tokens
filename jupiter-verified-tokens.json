@@ -1528,6 +1528,14 @@
     "image": "https://ipfs.io/ipfs/bafybeichg6sz5gskzvn2tlpyonwtc66uu4lyrj76lfdumhh3fqnavv3hzi"
   },
   {
+    "symbol": "PEPO",
+    "address": "pepo1CFNU2RXf7yXX7HNXazXwxsq8WrPvDHpHriwoLY",
+    "name": "PEPO",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeiaqkfunkz7vk5m4ce7ls4c3cwx7fyt2vplasqfi6bersyyzxceyfa"
+  },
+  {
     "symbol": "ALON",
     "address": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
     "name": "alon",
@@ -1694,6 +1702,14 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmePUch18pVBHf4z2LM7D6RC3wnaFB3Tff3iXVE6nKLsws"
+  },
+  {
+    "symbol": "purrcy",
+    "address": "3BWH8cDy6djTDhf6FZrMkXBxdbMuidV9wmNW5zPQbonk",
+    "name": "purrcy",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreif2v7tjrlxqlhxczf5h3rolhhb5hsrbo33tx6k6ldug5vn7p3ywhe"
   },
   {
     "symbol": "ME",
@@ -1894,6 +1910,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmZ1HDSibY2LdEmC1tPHK36ApGCQACJENqsbPsT2nc29AD"
+  },
+  {
+    "symbol": "DEL",
+    "address": "CkADK7xbwyyU4TUs2ExUbJcASUqawVB7ZKSr1pexbonk",
+    "name": "delegate.fun",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeihkujxlujku2avvakybqoyidoqyipjxt7ngj43yjmx7mk45s5zlwi"
   },
   {
     "symbol": "MANEKI",
@@ -2904,6 +2928,14 @@
     "image": "https://ipfs.io/ipfs/QmbzaAhYU5AYSuPpj8gUPNVdjGeEnhPkPuWpKPQ3pbf4jj"
   },
   {
+    "symbol": "M0N3Y",
+    "address": "ANNTWQsQ9J3PeM6dXLjdzwYcSzr51RREWQnjuuCEpump",
+    "name": "Monopoly Money",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmVvYk2EfPytqZiLZfEsjXviEiijqMADavfWexqRZDDfEP"
+  },
+  {
     "symbol": "sUSD",
     "address": "susdabGDNbhrnCa6ncrYo81u4s9GM8ecK2UwMyZiq4X",
     "name": "Solayer USD",
@@ -3072,6 +3104,14 @@
     "image": "https://ipfs.io/ipfs/bafkreiaxiq7mjbkur5vo44epbo2k3p4uxdbmykjnae5w2plndkr5o5tmza"
   },
   {
+    "symbol": "VIVA",
+    "address": "HaCUz8NfR9LqWVQvXqYxR2ast9BHsEScdgS941LKeBLV",
+    "name": "VIVA",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreicqgmi2d652ek2vdz4jgcpasjcr6plkdoubey5wlvwyokjgw4oolu"
+  },
+  {
     "symbol": "rocky",
     "address": "BVG3BJH4ghUPJT9mCi7JbziNwx3dqRTzgo9x5poGpump",
     "name": "rocky",
@@ -3198,6 +3238,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmSHQy78zSk1eaG8cFGiLEeoyWAEB2ro3S76WpJZ1FfjKW"
+  },
+  {
+    "symbol": "CAPY",
+    "address": "7VENy6wCjBChAMGpjPQCPYJDeYJGFr5NZUxk7uQ7bonk",
+    "name": "Capybara",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeiawxtksg5hzmbyp3g3hmanx7fv2f2vzaleihaisan3aad5fo7675i"
   },
   {
     "symbol": "PAYAI",
@@ -7950,53 +7998,5 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://bafybeicromesquwqsz526xkpdd6gnm73qtjpgx5einphk5b5aohc2awkpu.ipfs.nftstorage.link"
-  },
-  {
-    "symbol": "BABY",
-    "address": "5hmf8Jt9puwoqiFQTb3vr22732ZTKYRLRw9Vo7tN3rcz",
-    "name": "Baby",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://photos.pinksale.finance/file/pinksale-logo-upload/1709065389877-8334609f627697b59fa95b3f76dc5f39.png"
-  },
-  {
-    "symbol": "VHS",
-    "address": "5e41GfrQwTP74LgGt6WP9kw6xa1jQhAERCjnFKf74y52",
-    "name": "Blockbuster Video",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://cdn.dexscreener.com/cms/images/H2PyzV5OkSgN95Pq"
-  },
-  {
-    "symbol": "DARK",
-    "address": "8BtoThi2ZoXnF7QQK1Wjmh2JuBw9FjVvhnGMVZ2vpump",
-    "name": "Dark Eclipse",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmVhcHM7DU62qZpAYfN8NKz8GaNBXzcGahhWBbn4nWGbtm"
-  },
-  {
-    "symbol": "DUST",
-    "address": "DUSTawucrTsGU8hcqRdHDCbuYhCPADMLM2VcCb8VnFnQ",
-    "name": "DUST Protocol",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://gateway.pinata.cloud/ipfs/Qmb5qNLPhR8fJaz5MN1W55iSCXdNgMMSdWn94Z9oiFjw3o"
-  },
-  {
-    "symbol": "CHAOS",
-    "address": "8SgNwESovnbG1oNEaPVhg6CR9mTMSK7jPvcYRe3wpump",
-    "name": "chaos and disorder",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmZx2mt2KeAcJabsLQqWp3VSFfcz6vQsqLB9uDu11Jqd2A"
-  },
-  {
-    "symbol": "MEGA",
-    "address": "5mfWKJrjVtpZo8EvwbytFWH5X6T8YecxrrYCgskjpump",
-    "name": "Make Europe Great Again",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmPPKnhQv4vbUNJWA1JsGsNN9Nqmd5eZrrfPWxVVfKYsq4"
   }
 ]
