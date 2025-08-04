@@ -720,6 +720,14 @@
     "image": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4"
   },
   {
+    "symbol": "QTO",
+    "address": "quantoL84tL1HvygKcz3TJtWRU6dFPW8imMzCa4qxGW",
+    "name": "QTO Coin",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://cdn.quanto.trade/static/images/favicon.ico"
+  },
+  {
     "symbol": "LOCKIN",
     "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
     "name": "LOCK IN",
@@ -3464,6 +3472,14 @@
     "image": "https://arweave.net/12xEvVVvGFM5n5U6ILXdShlLtUJOT1gUQTlSy8sGybg"
   },
   {
+    "symbol": "HYLX",
+    "address": "7sYAhEucFNkme29jHqSeFYNenAgD8krH9KmJeUs8Un43",
+    "name": "HyperSwapAI",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreiemmia6xsks3cm4dsljeaucdhewkcewc3emho6k76rkorrlhfe32a"
+  },
+  {
     "symbol": "FATHA",
     "address": "EWWDzCwq4UYW3ERTXbdgd6X6sdkKHFMJqRz1ZiFcpump",
     "name": "Slopfather",
@@ -4862,6 +4878,14 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://gateway.irys.xyz/quusRf1O-_WcCbrFwHkbIZ26vxQ1xJZeQdsaKRITVNQ"
+  },
+  {
+    "symbol": "POOP",
+    "address": "7uwNJaMRj9FZuubmzguU8A4cR15ykpBymhAiVJEFTjZ5",
+    "name": "Poop",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://file.dexlab.space/file/7c1e1620553c43deab3ead5b16182448"
   },
   {
     "symbol": "r/snoofi",
@@ -6656,6 +6680,14 @@
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HHjoYwUp5aU6pnrvN4s2pwEErwXNZKhxKGYjRJMoBjLw/logo.svg"
   },
   {
+    "symbol": "GOTM",
+    "address": "AAqZ6CECabwnYLm3FDqPrVQotXLPGQ3BJSfecYmXeJU5",
+    "name": "GOTM",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://gateway.irys.xyz/m2wRxofX6nJXAb8QWQfTKb2THJ_dCT6RsGCNWTpPeSM"
+  },
+  {
     "symbol": "Aurora",
     "address": "bozdUuCb2kdipxES9PzsYHmDVrf7FBTSW3p1CFBpump",
     "name": "Aurora",
@@ -7966,37 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmZydrDxWGhomhR5FkEy6U2rzawNuaVZum3tgSHA5ugXRx"
-  },
-  {
-    "symbol": "DJI",
-    "address": "BjotV424H4UBvrAiGFGjQGztLxoafxM4HSdCXZR6pump",
-    "name": "Doge Jones Industrial Average",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmPVzz1CgyyRSQWT1Tzrp6Lrx2iSzeY6LV4kTCESVG11mH"
-  },
-  {
-    "symbol": "DPLN",
-    "address": "J2LWsSXx4r3pYbJ1fwuX5Nqo7PPxjcGPpUb2zHNadWKa",
-    "name": "DePlan",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://jprwutcw237zskmqfiyq72df2gx3o4r3imjdd2dx4ygfvyt524ua.arweave.net/S-NqTFbW_5kpkCoxD-hl0a-3cjtDEjHod-YMWuJ91yg"
-  },
-  {
-    "symbol": "ANON",
-    "address": "A53BzB7297SXdF6mguQQ8kzqjVYt8pUeHW5m1i8pD6hf",
-    "name": "anon coin",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmeLeMDj5vBYoAy1dWcEsZHP4xQFPZi35iLe5F1TFNGoRZ"
-  },
-  {
-    "symbol": "ANUS",
-    "address": "9hjZ8UTNrNWt3YUTHVpvzdQjNbp64NbKSDsbLqKR6BZc",
-    "name": "URANUS",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://bafybeicromesquwqsz526xkpdd6gnm73qtjpgx5einphk5b5aohc2awkpu.ipfs.nftstorage.link"
   }
 ]
