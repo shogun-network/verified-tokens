@@ -536,6 +536,14 @@
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmXRB5ujAAVNERmTPcmPT5aZaySVgNeAWVuXQNShWW2d37"
   },
   {
+    "symbol": "Unicoin",
+    "address": "GhE4sh64jawtzUmeQWRgkN3XrzcWN4pib5g5RcKMbonk",
+    "name": "Unicoin",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreicf34h6ajjjr4tthgyoagoc7elepfy6miwxugevpdrsagm7576hg4"
+  },
+  {
     "symbol": "arc",
     "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
     "name": "AI Rig Complex",
@@ -728,6 +736,14 @@
     "image": "https://ipfs.io/ipfs/QmeYP3cZdnLK81J3sR4EjBp1V8LUe28vSRGLJC3ebRHHaw"
   },
   {
+    "symbol": "Monkey",
+    "address": "CNNQZyEWfz9mDBRCiRNwjaUvMaLnaRWem8HeJYh7bonk",
+    "name": "Monkey The Picasso",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreigjfarwhik346xrpgk5t7qvegg46j6t7r2isswxblcotjoy3s5l4y"
+  },
+  {
     "symbol": "HUSTLE",
     "address": "HUSTLFV3U5Km8u66rMQExh4nLy7unfKHedEXVK1WgSAG",
     "name": "Hustle",
@@ -774,6 +790,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/bafybeifvebrsrum2n4gkl3n6fqbqg2lg26uwjnkid7ui3rpyj6wi34vggu"
+  },
+  {
+    "symbol": "Bonkyo",
+    "address": "oha3mwwm2tqWRouJ2KGUiz4Vz9FCRcPm1fApm87bonk",
+    "name": "Bonkyo",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreidposninrfcjbifgqolprj5su4n5hwavgi24iuhpnvucoj3clrjsq"
   },
   {
     "symbol": "dSOL",
@@ -1952,6 +1976,14 @@
     "image": "https://dd.dexscreener.com/ds-data/tokens/solana/WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk.png"
   },
   {
+    "symbol": "LENS",
+    "address": "AdwCEWQGzt3vuFMEPMf97AJMiq1eYL2sR7gk2x42pump",
+    "name": "LENS",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmPszgoKTxYzwpoods1ccdrhoWJCZaUbPB7dPrn4eYJuuL"
+  },
+  {
     "symbol": "MOONCAT",
     "address": "FNP2Dw2GU5wPBZgVCcerbEemV9dVfvQrThEor1jmoon",
     "name": "Mooncat",
@@ -3030,6 +3062,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmP6mGrPnfeNHeQxRmyPZHRpz3kAjdbtmHoivjJEM8CQKv"
+  },
+  {
+    "symbol": "PP",
+    "address": "ch7rTovcUK7C1zNFM7F93kXU2CByYUsJT4pwYx7pump",
+    "name": "Official PPshow",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmUTy2cPwyQFfKcVbNZgef78GhadJ5L7MxCcgbdstrKvBu"
   },
   {
     "symbol": "REALIS",
@@ -6624,6 +6664,14 @@
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9mUU4qviSctJVPJdBJWkb28deg915LYJKrzQ19ji3FM/logo.png"
   },
   {
+    "symbol": "YARA",
+    "address": "EgHo1Tq81VHKSYSx9KiWEsZvKRb5fZD9M4y5HPyUmoon",
+    "name": "YARA AI",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://imagedelivery.net/TKv7KPMH2OHcr6ck7xjakw/001d7f06-0c28-4771-5c30-bdaf13215500/public"
+  },
+  {
     "symbol": "NEURAL",
     "address": "Pre5X98d9ZvgGirEcWqeCVDK6wQ52stKkmU3HsH6bfE",
     "name": "Neuralink PreStocks",
@@ -7950,53 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://arweave.net/QA7H--VOnRLJnj96IleDWsYJht_RRiA6SWommUMroJ4"
-  },
-  {
-    "symbol": "D2X",
-    "address": "GyuP7chtXSRB6erApifBxFvuTtz94x3zQo3JdWofBTgy",
-    "name": "D2",
-    "decimals": 3,
-    "chainId": 7565164,
-    "image": "https://scpri.me/files/logo.png"
-  },
-  {
-    "symbol": "HUHCAT",
-    "address": "6Ra49aqZTbEurJB1UQgAj1TjvbqajGP5um7gsTym8tWm",
-    "name": "huh cat",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://media.discordapp.net/attachments/1226868639815438386/1227643314057117756/huh_cat.png?ex=662926ee&is=6616b1ee&hm=bff710efabde7ee7387b4c9de572bd44afe221f2f0bcd70e85ec92fe5b90ee3c&=&format=webp&quality=lossless&width=1352&height=1352"
-  },
-  {
-    "symbol": "fPHX",
-    "address": "6gx6Ph2ek73kF6EWDrG4GQ54pcLJB6CYpATuRyxKXumo",
-    "name": "FillmorePHX",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://gateway.irys.xyz/lUbE3hfwk7lOAeHT5ct_u2TfhBQMe7q9wFG4G9baElI"
-  },
-  {
-    "symbol": "MOB",
-    "address": "2tUS7AK6V9eLHYLZNuNkRiskw1L2sFe9Rvgo1Jr8pump",
-    "name": "Money Over Bitches",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmPuH8Hk4KwdKnhitKQkLzbakgyEHeickgpsfTAyWpZagb"
-  },
-  {
-    "symbol": "CLICKING",
-    "address": "r4QvQGZbKHc4bLxGP6SueRyYDzuvMVdTqXeuWSipump",
-    "name": "Keep CLICKING",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmPPptXYRve46tyy7HXGzV2AC7a7pxEnSNMBQ3uUtiSAbR"
-  },
-  {
-    "symbol": "FTM",
-    "address": "EsPKhGTMf3bGoy4Qm7pCv3UCcWqAmbC1UGHBTDxRjjD4",
-    "name": "FTM (Allbridge from Fantom)",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EsPKhGTMf3bGoy4Qm7pCv3UCcWqAmbC1UGHBTDxRjjD4/logo.png"
   }
 ]
