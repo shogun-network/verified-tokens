@@ -2752,6 +2752,14 @@
     "image": "https://i.degencdn.com/ipfs/bafybeie62hrgtq6vp5wyoquxlfftinudhq4k4z6bk2gf4x7jgb4ro2finu"
   },
   {
+    "symbol": "INCEL",
+    "address": "C1CUapxuNSRxuQFaSyu4JomxKyi1qPBvTkNCUVgHpump",
+    "name": "INCEL",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": null
+  },
+  {
     "symbol": "ELIZA",
     "address": "5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM",
     "name": "Eliza",
@@ -7128,6 +7136,14 @@
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/E2VmbootbVCBkMNNxKQgCLMS1X3NoGMaYAsufaAsf7M/logo.png"
   },
   {
+    "symbol": "RawDog",
+    "address": "8E7vYfBEJzdmaBgiv3k6ERBu217ucDRrqDnusCdcvsnM",
+    "name": "RawDog™",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://i.imgur.com/IOCNonO.png"
+  },
+  {
     "symbol": "SPACEX",
     "address": "Preb5VKsmKgMGhMKUhDpe7A2AhMDmrZtMMZmvFEhLbU",
     "name": "SpaceX PreStocks",
@@ -7982,21 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://arweave.net/5VQtSLt9kwn-FlP4ulK9DjuowQZnLm2zarHqda2MhPI"
-  },
-  {
-    "symbol": "plankton",
-    "address": "D3QiRT12vKBpj87h99ufQFz4mCpbPC7JVy1U6NRKpump",
-    "name": "plankton",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmRZrAgz2SwkeCaA3jkLgvXBKgxjJW35iuCaAPKHyKU8j9"
-  },
-  {
-    "symbol": "PEEP",
-    "address": "n54ZwXEcLnc3o7zK48nhrLV4KTU5wWD4iq7Gvdt5tik",
-    "name": "Peepo",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://arweave.net/QA7H--VOnRLJnj96IleDWsYJht_RRiA6SWommUMroJ4"
   }
 ]
