@@ -2392,6 +2392,14 @@
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AFbX8oGjGpmVFywbVouvhQSRmiW2aR1mohfahi4Y2AdB/logo.png"
   },
   {
+    "symbol": "vankedisi",
+    "address": "66bHtzcXqmLgkn668EG4ETzHL3RLz5ybdckqvrPppump",
+    "name": "vankedisi",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmeugwjMeTiGFD74hXcyARURUajsWpadyAb8uKXMRaN8V4"
+  },
+  {
     "symbol": "strongSOL",
     "address": "strng7mqqc1MBJJV6vMzYbEqnwVGvKKGKedeCvtktWA",
     "name": "Stronghold LST",
@@ -3294,6 +3302,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmeCR6o1FrYjczPdDDDm4623usKksjj9BQLu89WqV8jFZW?filename=MAD.jpg"
+  },
+  {
+    "symbol": "dollo",
+    "address": "5EaYZcaKfTVdpQ2avVtJ7BNWJ1Rnj86F1dWxppawpump",
+    "name": "DOLLO ALL IN",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeifp3qydz5kwa23akdjcv63edlypcxbkbagso4stz4mcnfcvnjqs2a"
   },
   {
     "symbol": "KITTY",
@@ -6584,6 +6600,14 @@
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmVwZvoN4HxxaRJt2uuhY7BL4vChQGCFaxiT8G4jzRe8Vn"
   },
   {
+    "symbol": "SUGAR",
+    "address": "5iVmFCCwJTuuw7p4FrxYoZ1bUNdjg14j7uv5hMsMpump",
+    "name": "SUGAR DADDY SEASON",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmY1kggkdmrjAiRv57fw9xe96chJTvspUdA2ZfqeyBFu1A"
+  },
+  {
     "symbol": "VALOR",
     "address": "VRTvcvUwYkCcZXtjEHfkoBT8yk5CDrQ6BfsJZhjzZdK",
     "name": "VALOR",
@@ -7974,29 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmaFEMVV3FTwZwfiBTX4NFy6XNZGWZ9hBczgMsXr6jb5Tk"
-  },
-  {
-    "symbol": "Saga Dao",
-    "address": "H2vBcEDpJa6yZkCwRYFCwZgof72ZoW7hiedpMGfJpump",
-    "name": "Saga Dao",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmdcwHjGkW59Ue4RKZEpWPAG8xtWMJE8eKEQi2MRnPnfaF"
-  },
-  {
-    "symbol": "NOVA",
-    "address": "AxDKAyDsC7p8C5MeDFX6FKV2MPCSGwzkRfGY2qZZpump",
-    "name": "AI Shell NOVA",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmV5JTYVdujBtSn6pngqSQWtt3MU1jJWeZqLSvQPo3dgGg"
-  },
-  {
-    "symbol": "MELON",
-    "address": "7DGJnYfJrYiP5CKBx6wpbu8F5Ya1swdFoesuCrAKCzZc",
-    "name": "Melon Dog",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://arweave.net/5VQtSLt9kwn-FlP4ulK9DjuowQZnLm2zarHqda2MhPI"
   }
 ]
