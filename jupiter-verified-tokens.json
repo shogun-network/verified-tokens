@@ -1872,6 +1872,14 @@
     "image": "https://ipfs.io/ipfs/QmfC1jPAMG3Ygow9MboroygQhfwibf6DiYEzgD3sK64Qig"
   },
   {
+    "symbol": "BOTIFY",
+    "address": "BYZ9CcZGKAXmN2uDsKcQMM9UnZacija4vWcns9Th69xb",
+    "name": "BOTIFY",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://gateway.irys.xyz/WIeESPRzUcJYQH66GPjPkYwDNDj-mMvQfzrSSR77pHU"
+  },
+  {
     "symbol": "UMA",
     "address": "8S9DimnjUoLhPrGTr6WBp6GQ5BskwuhoHp3wKKXRbonk",
     "name": "Uma Musume",
@@ -4286,6 +4294,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmdQYc4SK1GKTWRD8bfxg8eVehhpU3EXfVYaezQRRhSBUw"
+  },
+  {
+    "symbol": "GLMPS",
+    "address": "445ksMigJLms4mw29DQkXs8aWBG4S8Z2kTBCtGhd5nGd",
+    "name": "glympse",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreidom3a6vzddv2rwvywmzzboorpqryjjv7aoz2kvsshmj3vbomodva"
   },
   {
     "symbol": "Stoic",
@@ -7912,6 +7928,14 @@
     "image": "https://ipfs.io/ipfs/QmT7e6A2XbUTdnK3Z5k4ooAaQPvCVLyTVeVaKrcEkEERST"
   },
   {
+    "symbol": "HINEY",
+    "address": "DDAjZFshfVvdRew1LjYSPMB3mgDD9vSW74eQouaJnray",
+    "name": "Hineycoin",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreidemypqf5r27yvlfwlhsaystdosduhbkxshrxe25b4zx6gb2emebe"
+  },
+  {
     "symbol": "GUZUTA",
     "address": "ECMYTGjvXWR3mb5RFEh3F1mAqFBe5EEe53A2n1F1sbpg",
     "name": "CLYDE",
@@ -7974,29 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmaFvwLroGR1UGX5hzS5cEz6qcfGGHDdEwxjJAiLWTfQFK"
-  },
-  {
-    "symbol": "ISLAND",
-    "address": "Ds52CDgqdWbTWsua1hgT3AuSSy4FNx2Ezge1br3jQ14a",
-    "name": "Island DAO",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://arweave.net/mQxV2zBqZrgpMkRW1IjXdokZOoGAXCHcSK3JmFosXW8"
-  },
-  {
-    "symbol": "sonny",
-    "address": "FAJW358HjJ2mHXSHbHyxghfVGzX5SBoupdjRr2y9pump",
-    "name": "staring robot",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmSX2NDUCBQ6axRSgb5owZFZrPeVxZFnx1nhtvAxnm9pCY"
-  },
-  {
-    "symbol": "47",
-    "address": "HdHqKPz3n52e6FCJREKY3MS56TagyvRxsxVYG7E4rF99",
-    "name": "President Trump",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmaFEMVV3FTwZwfiBTX4NFy6XNZGWZ9hBczgMsXr6jb5Tk"
   }
 ]
