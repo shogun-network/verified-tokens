@@ -5832,6 +5832,14 @@
     "image": "https://ohp7no4hnuopyn4hle3xf77oaflbn3hw2xonmc7pbyi6jwgkdfwq.arweave.net/cd_2u4dtHPw3h1k3cv_uAVYW7PbV3NYL7w4R5NjKGW0"
   },
   {
+    "symbol": "DOBBY",
+    "address": "CPcf58MNikQw2G23kTVWQevRDeFDpdxMH7KkR7Lhpump",
+    "name": "DOBBY",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmamiH2SwsGjKXyim4wU7MokBLkBycSPKh1fiwYmULtTM2"
+  },
+  {
     "symbol": "FAPCOIN",
     "address": "J5CpjMaYHYdZu2WBUPT79mALDJM14FKCiVVPwUDcpump",
     "name": "FAPCOIN",
@@ -6030,6 +6038,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmdDWtzyCXcAj7qkYgxjLV1PtV5nzxJcgZ19d11UTyznHm"
+  },
+  {
+    "symbol": "STRIKE",
+    "address": "STrikemJEk2tFVYpg7SMo9nGPrnJ56fHnS1K7PV2fPw",
+    "name": "STRIKE",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreibrv2qtxa2ldfqcktdizrcufn4jcavd2bf3zrvvo7i6j4csqm3xfi"
   },
   {
     "symbol": "dGPU",
@@ -7982,21 +7998,5 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmVsd3BZ6w88R21zqLLotosXmqzxMkMCy5NqYqaJ5tKq7k"
-  },
-  {
-    "symbol": "dicSOL",
-    "address": "Dicscx2kpukGBATbjgsuzdbsVRFktV19BXEHofPQwEQF",
-    "name": "dicSOL",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://arweave.net/OPGNXTyc77OQEGVyfwfybHOzgHd1iRJgZ2Z92AZ2iN4"
-  },
-  {
-    "symbol": "TEMPT",
-    "address": "Gzat1rLZr6H5LacXAohUSM8fc7dbQTHBBJyk8Rcepump",
-    "name": "TEMPTATION",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmaFvwLroGR1UGX5hzS5cEz6qcfGGHDdEwxjJAiLWTfQFK"
   }
 ]
