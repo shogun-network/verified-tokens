@@ -456,6 +456,14 @@
     "image": "https://ipfs.io/ipfs/bafybeida2bu7mag7yl4zsco34l4x3m6qoaqtju6tmxywaiqvqwueurt74i"
   },
   {
+    "symbol": "67",
+    "address": "76rTxzztXjJe7AUaBi7jQ5J61MFgpQgB4Cc934sWbonk",
+    "name": "67COIN",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafkreih25yanccz3nn5ksj4bmi3mnyh7xqifxdy3qqeqfr5tdliorki76e"
+  },
+  {
     "symbol": "MPLX",
     "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
     "name": "Metaplex Token",
@@ -7990,13 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://bafkreiguosdk3lhlqi2z56nm3jauwdhollq3diehflcd4dvnqkp7tas65u.ipfs.nftstorage.link"
-  },
-  {
-    "symbol": "AVAX",
-    "address": "AUrMpCDYYcPuHhyNX8gEEqbmDPFUpBpHrNW3vPeCFn5Z",
-    "name": "AVAX (Allbridge from Avalanche)",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
   }
 ]
