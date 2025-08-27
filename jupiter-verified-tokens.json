@@ -2040,6 +2040,14 @@
     "image": "https://static.grassfoundation.io/grass-logo.png"
   },
   {
+    "symbol": "Scam",
+    "address": "9mNjA6BizTwpvd4DS3o7BjwZ6aPM9DC2jLHS7JFGbonk",
+    "name": "Scamcoin",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeifz5l32kxzvdcewmcumhhhryjlkwgalomsjkr4gkpo3lgms74bs4y"
+  },
+  {
     "symbol": "GOOGLx",
     "address": "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
     "name": "Alphabet xStock",
@@ -7990,13 +7998,5 @@
     "decimals": 8,
     "chainId": 7565164,
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA/logo.png"
-  },
-  {
-    "symbol": "WLKN",
-    "address": "EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az",
-    "name": "Walken",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az/logo.svg"
   }
 ]
