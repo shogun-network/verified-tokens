@@ -3712,6 +3712,14 @@
     "image": "https://ipfs.io/ipfs/QmcEtA2jyaKQeWcdtVPspcL1DXYoChME83Dad3djZowAox"
   },
   {
+    "symbol": "OPENAI",
+    "address": "PreYKD2kJ5xGgoZ644VPfbEN7sW8bWCUREHr5S3ebV9",
+    "name": "OpenAI PreStocks",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://prestocks.com/logos/openai.png"
+  },
+  {
     "symbol": "USDe",
     "address": "DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT",
     "name": "USDe",
@@ -4654,6 +4662,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://bafkreiguosdk3lhlqi2z56nm3jauwdhollq3diehflcd4dvnqkp7tas65u.ipfs.nftstorage.link"
+  },
+  {
+    "symbol": "SPACEX",
+    "address": "Preb5VKsmKgMGhMKUhDpe7A2AhMDmrZtMMZmvFEhLbU",
+    "name": "SpaceX PreStocks",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://prestocks.com/logos/spacex.png"
   },
   {
     "symbol": "LOOK",
@@ -5816,6 +5832,14 @@
     "image": "https://ohp7no4hnuopyn4hle3xf77oaflbn3hw2xonmc7pbyi6jwgkdfwq.arweave.net/cd_2u4dtHPw3h1k3cv_uAVYW7PbV3NYL7w4R5NjKGW0"
   },
   {
+    "symbol": "XAI",
+    "address": "PreYPq1LdVBhKsYC3nRmZW5Y9yJXwSuDYmUSikFCwGS",
+    "name": "xAI PreStocks",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://prestocks.com/logos/xai.png"
+  },
+  {
     "symbol": "Unicoin",
     "address": "GhE4sh64jawtzUmeQWRgkN3XrzcWN4pib5g5RcKMbonk",
     "name": "Unicoin",
@@ -6190,6 +6214,14 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmV4hWeYKtfHXRpqqo2vHsr8tns5yTLpMyjGCKGjW3Xjp4"
+  },
+  {
+    "symbol": "ANDURL",
+    "address": "Prep57BLk9uKWRzKigtQBbrYFxcDXtHuCjxFRM5UXAS",
+    "name": "Anduril PreStocks",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://prestocks.com/logos/anduril.png"
   },
   {
     "symbol": "WOOF",
@@ -7966,37 +7998,5 @@
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az/logo.svg"
-  },
-  {
-    "symbol": "pog",
-    "address": "6gVJwfHxWov8HxdAZ4v4tt2RpZZst6du74y4bUCdpump",
-    "name": "pog",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmNuoa3EB33k95GCc7SVLojVsKti4Re6AvYF4pJjgJnqbf"
-  },
-  {
-    "symbol": "HAGGORD",
-    "address": "AYyYgh3i43s1QSpvG4vwhJ6s3gewfN7uteFwYrswgMGw",
-    "name": "ps1 hagrid",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://bafkreiak2a2gbdqqnz77xup3bi72lon5fe4ri4cpozxp5o4ekjnugm77wm.ipfs.nftstorage.link"
-  },
-  {
-    "symbol": "Barron",
-    "address": "HmAgiwjjP9CXqK5wQNsHKtjAt2CH3Kv8Q7xH5kGL2nqZ",
-    "name": "Time Traveler",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmQoz4vZthmukuQ3CrQxCPiMgQ4xfhfVshXLMPW1vhiT5T"
-  },
-  {
-    "symbol": "BORK",
-    "address": "4jZXkSNgTQKCDb36ECZ6a2aNzcUniGcDeXgTdtM2HxAX",
-    "name": "Bork",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://gateway.irys.xyz/v7mjymWz2rjAHe1Sn3rUECDdjWjYx_MZ_zi5hhQsgOU"
   }
 ]
