@@ -1056,6 +1056,14 @@
     "image": "https://chintai.io/images/icon.png"
   },
   {
+    "symbol": "zenBTC",
+    "address": "9hX59xHHnaZXLU6quvm5uGY2iDiT3jczaReHy6A6TYKw",
+    "name": "Zenrock BTC",
+    "decimals": 8,
+    "chainId": 7565164,
+    "image": "https://zenrock-public-images.s3.eu-west-1.amazonaws.com/zenBTC-logo.svg"
+  },
+  {
     "symbol": "priceless",
     "address": "AFk1RUr18RCFjhKHQN7ufxPBiQYWjXifAw4y4n44jups",
     "name": "priceless",
@@ -2040,6 +2048,14 @@
     "image": "https://static.grassfoundation.io/grass-logo.png"
   },
   {
+    "symbol": "PLUMBUS",
+    "address": "Ec2XMdQpLcHnBjaEB5CzeshprAnRdMtHMAVPWmcwTxxA",
+    "name": "Plumbus",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://gateway.irys.xyz/QCrYXraVpiq6DfBLfUmXWa3KjLqoZxgPVbvJghIcYDI"
+  },
+  {
     "symbol": "Scam",
     "address": "9mNjA6BizTwpvd4DS3o7BjwZ6aPM9DC2jLHS7JFGbonk",
     "name": "Scamcoin",
@@ -2806,6 +2822,14 @@
     "decimals": 8,
     "chainId": 7565164,
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3UCMiSnkcnkPE1pgQ5ggPCBv6dXgVUy16TmMUe1WpG9x/logo.png"
+  },
+  {
+    "symbol": "hyUSD",
+    "address": "5YMkXAYccHSGnHn9nob9xEvv6Pvka9DZWH7nTbotTu9E",
+    "name": "hyUSD",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://hylo-token-metadata.s3.us-east-2.amazonaws.com/hyUSD/icon.png"
   },
   {
     "symbol": "CHILLHOUSE",
@@ -6512,12 +6536,28 @@
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmRuQ1ZMFoawMJUpEwJPfdpfC8M6hKrzodLBNtdNdv2RwJ"
   },
   {
+    "symbol": "xSOL",
+    "address": "4sWNB8zGWHkh6UnmwiEtzNxL4XrN7uK9tosbESbJFfVs",
+    "name": "xSOL",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://hylo-token-metadata.s3.us-east-2.amazonaws.com/xSOL/icon.png"
+  },
+  {
     "symbol": "aeUSDC",
     "address": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
     "name": "Wrapped USDC (Allbridge from Ethereum)",
     "decimals": 9,
     "chainId": 7565164,
     "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png"
+  },
+  {
+    "symbol": "ROCK",
+    "address": "5VsPJ2EG7jjo3k2LPzQVriENKKQkNUTzujEzuaj4Aisf",
+    "name": "Zenrock",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://spl-token-metadata.s3.eu-west-1.amazonaws.com/chain.png"
   },
   {
     "symbol": "TAURUS",
@@ -7958,45 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmSesoim6pBNGA8As7d8wyGMjivMFubVMEyhWGoy9ErHPS"
-  },
-  {
-    "symbol": "HELLO",
-    "address": "4h49hPGphLNJNDRyiBwzvKoasR3rw1WJCEv19PhUbSS4",
-    "name": "Hello Token",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://arweave.net/q-qAaW4lVGbdP1C7VMgIKwqdDVUsnQXaFPnAEkWPRHM"
-  },
-  {
-    "symbol": "SOLA",
-    "address": "B5UsiUYcTD3PcQa8r2uXcVgRmDL8jUYuXPiYjrY7pump",
-    "name": "Sola AI",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmfP4YRBNRXLeW77khp7jjr5nkNNo8XrnBebGgjgkiZbS8"
-  },
-  {
-    "symbol": "NAI",
-    "address": "Fxm6tJ2khHbLVcSgnYUqg9FiBduVRLEvdQR67dvQ3eGp",
-    "name": "Naitzsche",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://arweave.net/mpbwNqWiQsUhzIBCU9uvjetv-8XAI7ZaOrJvfGBq3FQ"
-  },
-  {
-    "symbol": "USDCbs",
-    "address": "FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA",
-    "name": "USD Coin (Portal from BSC)",
-    "decimals": 8,
-    "chainId": 7565164,
-    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCqfQSujuPxy6V42UvafBhsysWtEq1vhjfMN1PUbgaxA/logo.png"
-  },
-  {
-    "symbol": "WLKN",
-    "address": "EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az",
-    "name": "Walken",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EcQCUYv57C4V6RoPxkVUiDwtX1SP8y8FP5AEToYL8Az/logo.svg"
   }
 ]
