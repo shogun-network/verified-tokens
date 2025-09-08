@@ -3104,6 +3104,14 @@
     "image": "https://arweave.net/hZjFjNJ7Pe2huQHi4k19Bu2qMqNnI0cgqB39pdDFXeI"
   },
   {
+    "symbol": "POKE6900",
+    "address": "3oQwNvAfZMuPWjVPC12ukY7RPA9JiGwLod6Pr4Lkpump",
+    "name": "POKE6900",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/bafybeic4b5sqghlzsfjg7tbywaepjes6ducb3birrbznya2up5jbku2u7i"
+  },
+  {
     "symbol": "GARI",
     "address": "CKaKtYvz6dKPyMvYq9Rh3UBrnNqYZAyd7iF4hJtjUvks",
     "name": "Gari",
@@ -3750,6 +3758,14 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmTC19j44inyueVnQF3wQRG8KSoXCSJB8m5VhhH9BJeURX"
+  },
+  {
+    "symbol": "STAR",
+    "address": "2dPkLQi1WLkrbQbBAS9d8GHARF4oWQXFXrUbMq7bstar",
+    "name": "star.fun",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": null
   },
   {
     "symbol": "PAIN",
@@ -7982,21 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://gateway.irys.xyz/2PDQa5S4TNahdGabFRcSijFfTWM6kuzdTnyyDb7C2fVS"
-  },
-  {
-    "symbol": "BUILD",
-    "address": "AuLFCTA8V8katsgpkFsezQtkHodJby5M4KB2VryTpump",
-    "name": "BUILD",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmYkMhtcbW7hvVjKDNnUg56zPrjrrdjNpk47fu6829xArc"
-  },
-  {
-    "symbol": "REAL",
-    "address": "AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb",
-    "name": "Realy Token",
-    "decimals": 9,
-    "chainId": 7565164,
-    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AD27ov5fVU2XzwsbvnFvb1JpCBaCB5dRXrczV9CqSVGb/logo.svg"
   }
 ]
