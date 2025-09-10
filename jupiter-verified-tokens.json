@@ -3616,6 +3616,14 @@
     "image": "https://ipfs.io/ipfs/QmUt3aN9P8WCfsEzhioR18rCCbzW8cxMtZYZHdozXxWacy"
   },
   {
+    "symbol": "AWOKE",
+    "address": "ovutZfkUMXRBEH4hAXJE42j2GK3Az9ZjTdbG5taWoKe",
+    "name": "Awoke",
+    "decimals": 6,
+    "chainId": 7565164,
+    "image": "https://ipfs.io/ipfs/QmRXBzxKFxU5S4mX2hhhJszjjSqLMVHRu4dKbAKuscmzEe"
+  },
+  {
     "symbol": "Jarvis",
     "address": "CmpuL8k9KY3NrpfDRoJrVmuwd1zRMFRUxX55avyGpump",
     "name": "Jarvis",
@@ -7990,13 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://ipfs.io/ipfs/QmaRLZp3HbsK6q4cwTBo8HiSqk8BqWpmyTrhfZBRteizcZ"
-  },
-  {
-    "symbol": "Pawel",
-    "address": "9xbgwwXdzJYv8sLmVCFsRSNKwzCCNQWiEhWVGNhWCNGE",
-    "name": "Pawel",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://gateway.irys.xyz/2PDQa5S4TNahdGabFRcSijFfTWM6kuzdTnyyDb7C2fVS"
   }
 ]
