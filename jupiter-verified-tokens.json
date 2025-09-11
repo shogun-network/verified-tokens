@@ -512,6 +512,14 @@
     "image": "https://ipfs.io/ipfs/QmYG14Rrj2STV4ww9jKWierD2QVndSvDLEFkEyufBAxNC2"
   },
   {
+    "symbol": "MROCKS",
+    "address": "moon3CP11XLvrAxUPBnPtueDEJvmjqAyZwPuq7wBC1y",
+    "name": "Moon Rocks",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://arweave.net/w8Bnq4D3bQ6aQJ27zRTanqI2wOHm5tCUQoKMcWPS6Ag"
+  },
+  {
     "symbol": "mPST",
     "address": "HUPfpnsaJtJGpJxAPNX1vXah7BgYiQYt1c2JMgMumvPs",
     "name": "Maxi PayFi Strategy Token",
@@ -7990,13 +7998,5 @@
     "decimals": 8,
     "chainId": 7565164,
     "image": "https://gateway.irys.xyz/Rbczlmf285y6yoh3FxB4NoAXPaagGZE84DzXSdI3cZA"
-  },
-  {
-    "symbol": "WORM",
-    "address": "DwDtUqBZJtbRpdjsFw3N7YKB5epocSru25BGcVhfcYtg",
-    "name": "Deep Worm",
-    "decimals": 6,
-    "chainId": 7565164,
-    "image": "https://ipfs.io/ipfs/QmaRLZp3HbsK6q4cwTBo8HiSqk8BqWpmyTrhfZBRteizcZ"
   }
 ]
