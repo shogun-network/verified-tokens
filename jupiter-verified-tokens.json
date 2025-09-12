@@ -5672,6 +5672,14 @@
     "image": "https://image-cdn.solana.fm/images/?imageUrl=https://cf-ipfs.com/ipfs/QmPkBk2iNbXVn75C1xykV2xbHGupbM3gHkJEy7r5ZEEiPi"
   },
   {
+    "symbol": "ROVR",
+    "address": "FgQ3sxj54SmVzttkxuK4bdiEnUNi6kF9Hyx3ezKW72hn",
+    "name": "ROVR Network",
+    "decimals": 9,
+    "chainId": 7565164,
+    "image": "https://rovr.network/resource/rovr.png"
+  },
+  {
     "symbol": "MOTION",
     "address": "Uiupt55owCqBJdunYQxyYf48KRMU4F53xQAyf31dpzx",
     "name": "Motion",
@@ -7990,13 +7998,5 @@
     "decimals": 6,
     "chainId": 7565164,
     "image": "https://i.imgur.com/6dJWbbL.jpeg"
-  },
-  {
-    "symbol": "dubcat",
-    "address": "7woCERDM7WV4XaBLfdGwvHBX3EJHQqp8XjArrgSFKkpL",
-    "name": "dubcat",
-    "decimals": 8,
-    "chainId": 7565164,
-    "image": "https://gateway.irys.xyz/Rbczlmf285y6yoh3FxB4NoAXPaagGZE84DzXSdI3cZA"
   }
 ]
